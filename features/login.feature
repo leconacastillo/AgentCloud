@@ -1,6 +1,6 @@
 Feature: Test Login success
 
-  Scenario Outline: As a user, I can login successfully
+  Scenario Outline: As a user, I can login successfully.
 
     Given I am on the login page
     When  I login with <username> and <password>
