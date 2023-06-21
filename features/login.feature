@@ -8,5 +8,5 @@ Feature: Test Login success
     Then  I should see a message saying <message>
 
     Examples:
-      | username        | password             | message                                                                                         |
-      | cesar@admin.com | 112233445566778899   | Make sure to check your tasks for the day! We are looking to have 100% on time call-back rate.  |
+      | username          | password           | message                                                                                         |
+      | cesar@aqadmin.com | 112233445566778899 | Make sure to check your tasks for the day! We are looking to have 100% on time call-back rate.  |
